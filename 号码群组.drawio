@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T09:13:34.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" version="16.0.0" etag="EIgfScmxQL3SMiSr_t2T" type="github"><diagram id="mAp1fo5zYlJPybRG-9it">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-19T09:13:52.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="gdCosXp3PFCn5EkY6m2O" version="16.0.0" type="github">
+  <diagram id="mAp1fo5zYlJPybRG-9it" name="第 1 页">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g5Sudg3YbjAHf1PKaE4Y-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=22;endArrow=classic;endFill=1;" edge="1" parent="1" source="g5Sudg3YbjAHf1PKaE4Y-3" target="g5Sudg3YbjAHf1PKaE4Y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Sudg3YbjAHf1PKaE4Y-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;endArrow=classic;endFill=1;" edge="1" parent="1" source="g5Sudg3YbjAHf1PKaE4Y-3" target="g5Sudg3YbjAHf1PKaE4Y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Sudg3YbjAHf1PKaE4Y-3" value="长春群组&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontSize=22;fillStyle=hachure;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="270" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Sudg3YbjAHf1PKaE4Y-4" value="2i交付长春号码集合" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontSize=22;fillStyle=hachure;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Sudg3YbjAHf1PKaE4Y-5" value="长春应用号码集合" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontSize=22;fillStyle=hachure;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Sudg3YbjAHf1PKaE4Y-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=22;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="240" as="sourcePoint" />
+            <mxPoint x="660" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5Sudg3YbjAHf1PKaE4Y-7" value="二级群组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="600" y="290" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g5Sudg3YbjAHf1PKaE4Y-8" value="一级群组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
